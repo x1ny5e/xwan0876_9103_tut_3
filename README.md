@@ -12,3 +12,9 @@ this is my second commit.
 **Bold Text**
 
 *Italic text*
+
+**Lists**
+- Item 1
+- Item 2
+  - Sub Item 1
+  - Sub Item 2
